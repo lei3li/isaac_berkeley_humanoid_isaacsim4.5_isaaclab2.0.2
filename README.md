@@ -24,7 +24,7 @@ If you use this work in an academic context, please consider citing the followin
 
 - Install Isaac Lab, see
   the [installation guide](https://isaac-sim.github.io/IsaacLab/source/setup/installation/index.html). **Please use
-  [IsaacLab v1.0.0 with IsaacSim 4.0.0](https://github.com/isaac-sim/IsaacLab/blob/3ad18a8e1a5c166ad1a22f105d47a5c578de68d7/docs/source/setup/installation/pip_installation.rst)**.
+  [IsaacLab v2.0.2 with IsaacSim 4.5](https://github.com/isaac-sim/IsaacLab/blob/3ad18a8e1a5c166ad1a22f105d47a5c578de68d7/docs/source/setup/installation/pip_installation.rst)**.
 
 - Using a python interpreter that has Isaac sLab installed, install the library
 
